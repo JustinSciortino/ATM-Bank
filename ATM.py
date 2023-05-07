@@ -1,7 +1,4 @@
 #Justin Sciortino
-#420-LCU Computer Programming, Section 01
-#S. Hilal, instructor
-#Assignment 4
 
 import datetime
 class BankAccount:
