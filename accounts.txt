@@ -1,0 +1,5 @@
+123456,Sara Doe,TD,Saving,200
+222222,Joe Wood,HSBC,RRSP,2000
+321321,Amy Smith,TD,Chequing,250
+333333,Bob Young,RBC,Saving,1000
+145145,Jim Whyat,RBC,TFSA,3000
